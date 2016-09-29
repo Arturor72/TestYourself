@@ -1,0 +1,55 @@
+<resources>
+    <!--Login-->
+
+    <string name="googleButton">Iniciar Sesion con Google</string>
+    <string name="facebookButton">Iniciar Sesion con Facebook</string>
+
+    <!--Inicial-->
+
+    <string name="app_name">TestYourself</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Titulos-->
+
+    <string name="application_name">Test Yourself</string>
+
+    <!--Buttons-->
+
+    <string name="btn_login">Iniciar Sesion</string>
+    <string name="btn_register">Registrarse</string>
+
+
+    <!--Login-->
+
+    <string name="mensaje_cancel">Error, se cancelo el login</string>
+    <string name="mensaje_error">Error, intente nuevamente</string>
+
+    <string name="src_user_google">Google</string>
+    <string name="src_user_facebook">Facebook</string>
+
+
+    <!--Registro-->
+    <string name="registro_text">Registro</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="nombre_text">Nombre</string>
+    <string name="apellidos_text">Apellidos</string>
+
+
+    <!--Init-->
+    <string name="name">Jose Perez</string>
+    <string name="profesion">Futuro Ingeniero Informatico</string>
+
+    <string name="btn_simulacro">Nuevo Simulacro</string>
+    <string name="title_activity_preguntas">PreguntasActivity</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+    <string name="title_activity_registro">RegistroActivity</string>
+    <string name="title_activity_init">InitActivity</string>
+
+    <string name="server_client_id">AIzaSyCDvC8K6qasRPByOSBuTFjqO7qb3hHEvWg</string>
+    <string name="facebook_app_id">1556800104345688</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
